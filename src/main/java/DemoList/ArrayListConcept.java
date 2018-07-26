@@ -15,7 +15,7 @@ public class ArrayListConcept {
 		list.add("Selenium expert");
 		list.add("Xpath");
 		list.add("Selenium expert");
-		list.add(100);
+		list.add(2000);
 		
 		
 		System.out.println(list);//Directly we can print all the object in one shot.
